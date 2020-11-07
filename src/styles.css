@@ -1,0 +1,6 @@
+/* Add application styles & imports to this file! */
+button pre { margin: 0.25em; }
+button { margin-right: 1em; }
+pre.match { background: green; }
+pre.nomatch { background: red; }
+code { background: lightgrey; padding: 2px 6px; }
